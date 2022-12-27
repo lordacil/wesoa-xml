@@ -1,0 +1,191 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="style.xsl" ?>
+<!-- Daftar Dosen Fakultas Informatika di Institut Teknologi Telkom Purwokerto -->
+<!-- Tugas WESOA -->
+<listoflecturers>
+
+    <lecturer title="Software Engineering">
+
+        <person id="01">
+            <name gender="male">Condro Kartiko, S.Kom., M.T.I</name>
+            <education>[S.Kom] Universitas Jendral Soedirman, [M.T.I] Universitas Indonesia</education>
+            <field>Software Testing, Teknologi Informasi, Mobile Programming</field>
+            <lecturercode>CKO</lecturercode>
+            <nidn>0617049001</nidn>
+        </person>
+
+        <person id="02">
+            <name gender="male">Rifki Adhitama, S.Kom., M.Kom</name>
+            <education>[S.Kom] Universitas Diponegoro, [M.Kom] Universitas Diponegoro</education>
+            <field>Artificial Intelligence, Natural Language Processing</field>
+            <lecturercode>RAA</lecturercode>
+            <nidn>0627089101</nidn>
+        </person>
+
+        <person id="03">
+            <name gender="female">Gita Fadila Fitriana, S.Kom., M. Kom</name>
+            <education>[S.Kom] Universitas Sriwijaya, [M.Kom] Universitas Sriwijaya</education>
+            <field>Artificial Intelligence, Machine Learning</field>
+            <lecturercode>GFA</lecturercode>
+            <nidn>0620039302</nidn>
+        </person>
+
+        <person id="04">
+            <name gender="male">Aditya Wijayanto, S.Kom., M.Cs</name>
+            <education>[S.Kom] Universitas Jendral Soedirman, [M.Cs] Universitas Gadjah Mada</education>
+            <field>Pemrograman Web dan Jaringan Komputer</field>
+            <lecturercode>AWT</lecturercode>
+            <nidn>0608118902</nidn>
+        </person>
+
+        <person id="05">
+            <name gender="female">Nia Annisa Ferani T., S.Si., M.Sc</name>
+            <education>[S.Si] Universitas Negeri Medan, [M.Cs] Universitas Gadjah Mada</education>
+            <field>Physics, Applied Science</field>
+            <lecturercode>NAF</lecturercode>
+            <nidn>0630049203</nidn>
+        </person>
+
+        <person id="06">
+            <name gender="male">Ariq Cahya Wardhana, S.Kom., M.Kom</name>
+            <education>[S.Si] Universitas Negeri Medan, [M.Cs] Universitas Gadjah Mada</education>
+            <field>Physics, Applied Science</field>
+            <lecturercode>NAF</lecturercode>
+            <nidn>0630049203</nidn>
+        </person>
+        
+        <person id="07">
+            <name gender="male">Faisal Dharma Adhinata, S.Kom., M.Cs</name>
+            <education>[S.Kom] Universitas Sebelas Maret, [M.Cs] Universitas Gadjah Mada</education>
+            <field>Computer Vision, Video Processing, AI Engineering</field>
+            <lecturercode>FDA</lecturercode>
+            <nidn>0607079301</nidn>
+        </person>
+        
+        <person id="08">
+            <name gender="male">Alon Jala Tirta Segara, S.Kom., M.Kom</name>
+            <education>[S.Kom] UPN Veteran Jawa Timur, [M.Kom] Universitas Atma Jaya</education>
+            <field>Big Data, Network and Multimedia</field>
+            <lecturercode>AJS</lecturercode>
+            <nidn>0605039201</nidn>
+        </person>
+
+        <person id="09">
+            <name gender="male">Arif Amrulloh, S.Kom., M.Kom</name>
+            <education>[S.Kom] Universitas Indonesia Membangun, [M.Kom] Universitas Teknologi</education>
+            <field>Programming, Data Mining</field>
+            <lecturercode>AAH</lecturercode>
+            <nidn>0611018702</nidn>
+        </person>
+        
+        <person id="10">
+            <name gender="male">Nur Ghaniaviyanto Ramadhan, S.Kom., M.Kom</name>
+            <education>[S.Kom] Universitas Telkom, [M.Kom] Universitas Telkom</education>
+            <field>Machine Learning, Data Mining, Information Extraction</field>
+            <lecturercode>NGR</lecturercode>
+            <nidn>0615029601</nidn>
+        </person>
+        
+        <person id="11">
+            <name gender="male">Arief Rais Bahtiar, S.Kom., M.Kom</name>
+            <education>[S.Kom] Universitas Boyolali, [M.Kom] Universitas Atma Jaya Yogyakarta</education>
+            <field>Intelligence Informatics</field>
+            <lecturercode>ARB</lecturercode>
+            <nidn>0604119101</nidn>
+        </person>
+        
+        <person id="12">
+            <name gender="male">Abednego Dwi Septiadi, S.Kom., M.Kom</name>
+            <education>[S.Kom] Universitas Amikom Purwokerto, [M.Kom] Universitas Amikom Yogyakarta</education>
+            <field>Programming, Database</field>
+            <lecturercode>ADI</lecturercode>
+            <nidn>0616098901</nidn>
+        </person>
+
+    </lecturer>
+    
+    <lecturer title="Data Science">
+        
+        <person id="01">
+            <name gender="female">Siti Khomsah, M.Cs</name>
+            <education>[M.Cs] Universitas Gadjah Mada Yogyakarta</education>
+            <field>Data Analytic, Big Data, Pattern Recognition, Kewirausahaan</field>
+            <lecturercode>STK</lecturercode>
+            <nidn>0517108101</nidn>
+        </person>
+        
+        <person id="02">
+            <name gender="male">Andreas Rony Wijaya, S.Mat., M.Sc</name>
+            <education>[S.Mat] Universitas Sebelas Maret, [M.Sc] Institute of Statistics, National Yang Ming Chiao Tung University (NYCU) Taiwan</education>
+            <field>Pemodelan Stokastik, Pemodelan Matematika, Design of Experiment, dan Peramalan time series</field>
+            <lecturercode>ARW</lecturercode>
+            <nidn>0630059602</nidn>
+        </person>
+        
+        <person id="03">
+            <name gender="female">Atika Ratna Dewi, S.Si, M.Sc</name>
+            <education>[S.Si] Universitas Jenderal Soedirman, [M.Cs] Universitas Gadjah Mada</education>
+            <field>Matematika Diskrit, Statistika dan Probabilitas, Kalkulus.</field>
+            <lecturercode>ATK</lecturercode>
+            <nidn>0615128703</nidn>
+        </person>
+        
+        <person id="04">
+            <name gender="female">Rima Dias Ramadhani, S.Kom., M.Kom</name>
+            <education>[S.Kom] Universitas Dian Nuswantoro, [M.Kom] Universitas Dian Nuswantoro Semarang</education>
+            <field>Intelligent System, Data Mining, Machine Learning</field>
+            <lecturercode>RDR</lecturercode>
+            <nidn>0602039301</nidn>
+        </person>
+        
+        <person id="05">
+            <name gender="female">Ummi Athiyah, S.Kom., M.Kom.</name>
+            <education>[S.Kom] Universitas Islam Negeri Sunan Kalijaga, [M.Kom] Universitas Islam Indonesia Yogyakarta</education>
+            <field>Logika Fuzzy (fuzzy logic), Teknologi Informasi dan Komunikasi, dan Leadership.</field>
+            <lecturercode>UMT</lecturercode>
+            <nidn>0621129001</nidn>
+        </person>
+        
+    </lecturer>
+    
+    <lecturer title="Sistem Informasi">
+        
+        <person id="01">
+            <name gender="male">Yogo Dwi Prasetyo,S.Si.,M.Si.</name>
+            <education>[S.Si] Universitas Jenderal Soedirman, [M.Si] Universitas Sumatera Utara</education>
+            <field>Teori Graf, Kombinatorik, Kecerdasan Buatan.</field>
+            <lecturercode>YDO</lecturercode>
+            <nidn>0101088702</nidn>
+        </person>
+        
+        <person id="02">
+            <name gender="male">Hari Widi Utomo,S.Pd.,M.Ed.</name>
+            <education>[S.Pd] Universitas Muhammadiyah Purwokerto, [M.Ed] Hiroshima University</education>
+            <field>Pengajaran Bahasa Inggris, Educational Development, Continous Profesional Development, Lesson Study.</field>
+            <lecturercode>HWU</lecturercode>
+            <nidn>0604068901</nidn>
+        </person>
+        
+    </lecturer>
+
+    <lecturer title="Informatika">
+        
+        <person id="01">
+            <name gender="male">Agi Prasetiadi, S.T., M. Eng..</name>
+            <education>[S.T] Institut Teknologi Bandung, [M.Eng] Kumoh National University Of Technology</education>
+            <field>Rekayasa Data</field>
+            <lecturercode>API</lecturercode>
+            <nidn>0617098802</nidn>
+        </person>
+        
+        <person id="02">
+            <name gender="male">Anggi Zafia, S.T., M.Eng..</name>
+            <education>[S.T] Universitas Ahmad Dahlan, [M.Eng] Universitas Gadjah Mada</education>
+            <field>Teknologi Informasi.</field>
+            <lecturercode>AGZ</lecturercode>
+            <nidn>0601128701</nidn>
+        </person>
+        
+    </lecturer>
+
+</listoflecturers>
